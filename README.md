@@ -7,6 +7,7 @@ Whenever a new technology is invented, there are already people imagining what t
 
 Scientists discovered nuclear fission, yet the atomic bomb was invented before the first nuclear power plants even came online.
 Software developers created platforms for AI-powered video editing, and some complete idiots are using them to create deepfake videos.
+
 "Every misuse a technology allows *will* happen."
 
 But what are the consequences? Does that mean we should stop investing in new technologies?
