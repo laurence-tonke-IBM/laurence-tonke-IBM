@@ -15,6 +15,6 @@ No, it doesn't. That wouldn't achieve anything. Others would simply do it instea
 
 This means handling technology responsibly. Making technology secure. Leading by example. Taking responsibility.
 Any misuse that a technology allows will inevitably occur.
-You cannot prevent it, but you can lead by example.
+You cannot prevent it, but you can lead by example. Make it clear that you don't agree with that. Take action.
 
 Do the right thing.
