@@ -13,7 +13,7 @@ Software developers created platforms for AI-powered video editing, and some com
 But what are the consequences? Does that mean we should stop investing in new technologies?
 
 No, it doesn't. That wouldn't achieve anything. Others would simply do it instead.
-Instead it means handling technology responsibly. Making technology secure. Leading by example. Taking responsibility.
+It means handling technology responsibly. Making technology secure. Leading by example. Taking responsibility.
 Any misuse that a technology allows will inevitably occur.
 You cannot prevent it, but you can make it clear that you don't agree with that. Take action. Make technology secure.
 
